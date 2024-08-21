@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com:j2tlsk/argo-events-gh-demo
+    repoURL: https://github.com/j2tlsk/argo-events-gh-demo
     targetRevision: HEAD
     path: apps
   destination:
